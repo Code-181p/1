@@ -1,0 +1,14 @@
+D:\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\bin\Debug\TN_Library_Chart.dll
+D:\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\bin\Debug\TN_Library_Chart.pdb
+D:\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library_Chart.csproj.CoreCompileInputs.cache
+D:\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library_Chart.dll
+D:\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library_Chart.pdb
+D:\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library.Chart.TN_Chart.resources
+D:\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library_Chart.csproj.GenerateResource.cache
+D:\OldData\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\bin\Debug\TN_Library_Chart.dll
+D:\OldData\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\bin\Debug\TN_Library_Chart.pdb
+D:\OldData\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library.Chart.TN_Chart.resources
+D:\OldData\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library_Chart.csproj.GenerateResource.cache
+D:\OldData\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library_Chart.csproj.CoreCompileInputs.cache
+D:\OldData\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library_Chart.dll
+D:\OldData\2021\TN_Technology\TN_TechnicalBasic\TN_Library_Chart\obj\Debug\TN_Library_Chart.pdb

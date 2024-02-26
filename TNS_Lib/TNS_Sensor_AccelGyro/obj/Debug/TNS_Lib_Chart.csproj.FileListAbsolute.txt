@@ -1,0 +1,8 @@
+D:\Data_2024\TNS_VietTech\Technical_Basic\5_AppSensor\TNS_Library_Chart\bin\Debug\TNS_Lib_Chart.dll
+D:\Data_2024\TNS_VietTech\Technical_Basic\5_AppSensor\TNS_Library_Chart\bin\Debug\TNS_Lib_Chart.pdb
+D:\Data_2024\TNS_VietTech\Technical_Basic\5_AppSensor\TNS_Library_Chart\obj\Debug\TNS_Lib_Chart.csproj.AssemblyReference.cache
+D:\Data_2024\TNS_VietTech\Technical_Basic\5_AppSensor\TNS_Library_Chart\obj\Debug\TNS.Lib.Chart.TN_Chart_Control.resources
+D:\Data_2024\TNS_VietTech\Technical_Basic\5_AppSensor\TNS_Library_Chart\obj\Debug\TNS_Lib_Chart.csproj.GenerateResource.cache
+D:\Data_2024\TNS_VietTech\Technical_Basic\5_AppSensor\TNS_Library_Chart\obj\Debug\TNS_Lib_Chart.csproj.CoreCompileInputs.cache
+D:\Data_2024\TNS_VietTech\Technical_Basic\5_AppSensor\TNS_Library_Chart\obj\Debug\TNS_Lib_Chart.dll
+D:\Data_2024\TNS_VietTech\Technical_Basic\5_AppSensor\TNS_Library_Chart\obj\Debug\TNS_Lib_Chart.pdb
